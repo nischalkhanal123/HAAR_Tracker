@@ -16,7 +16,7 @@ import numpy as np
 import threading
 
 # Load the HAAR cascade XML file for car detection
-car_cascade = cv2.CascadeClassifier('C://Users//nkhanal//Desktop//cars.xml')
+car_cascade = cv2.CascadeClassifier('cars.xml')
 
 #Initialize the type of tracker
 def initialize_tracker(frame, bbox, tracker_type):
