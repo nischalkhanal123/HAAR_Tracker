@@ -1,4 +1,3 @@
-![image](https://companieslogo.com/img/orig/NVDA_BIG-8c0fdc59.png?t=1633073585)
 
 # Rear-Vehicle detection in real-time using HAAR Cascade Classifiers and Trackers
 
